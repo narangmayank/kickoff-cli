@@ -1,3 +1,3 @@
 @echo off
-prompt Myank@
-echo Good Morning Mayank, I wish you a great day ahead!
+prompt %1@
+echo Good Morning %1, I wish you a great day ahead!
