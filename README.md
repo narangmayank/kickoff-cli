@@ -11,7 +11,7 @@ $ git clone https://github.com/narangmayank/kickoff-cli.git
 $ cd kickoff-cli
 ```
 
-## Kickoff
+## Kickoff Project
 
 ```
 # Kickstart the project
@@ -28,4 +28,8 @@ Hey there, I am an instance of linked_list.
 Happy Usage !!
 ```
 
-If you feel you want to contribute to this repo , give the [contributing guide](https://github.com/Mayank-124/StartupScript/blob/master/CONTRIBUTING.md) a read.
+## Contribution
+
+Contributions are welcome!
+
+See the [contributing guide](./CONTRIBUTING.md) for detailed instructions on how to get started with the Library. Please follow the general code of conduct while contributing.

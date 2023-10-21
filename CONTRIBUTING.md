@@ -15,8 +15,3 @@
   - Please **no new files on the root directory!**.
 
 ## I will merge your pull request as long as it is having some use case and well explained by comments.
-
-
-
-
-
