@@ -1,19 +1,31 @@
-## Batch file to customize the project on startup
+## Kickoff Cli
 
-How to use ?
+Kickstart your project faster
 
-Clone this repo anywhere in your system and move to StartupScript directory in cmd and try running the
-following commands,  
+## Get the Project
+```
+# clone the repo
+$ git clone https://github.com/narangmayank/kickoff-cli.git
 
-batchFile\create your_project_name  
-eg. batchFile\create array  
+# step into cloned repo directory
+$ cd kickoff-cli
+```
 
-batchFile\goodMorning your_good_name  
-eg. batchFile\goodMorning Myank  
+## Kickoff
+
+```
+# Kickstart the project
+$ kickoff linked_list
+```
+
+## Example Output
+
+```
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Hey there, I am an instance of linked_list.
+Happy Usage !!
+```
 
 If you feel you want to contribute to this repo , give the [contributing guide](https://github.com/Mayank-124/StartupScript/blob/master/CONTRIBUTING.md) a read.
-
-
-### Thank you for visiting, Keep exploring !!
-
-
